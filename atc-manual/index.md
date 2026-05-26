@@ -26,13 +26,13 @@ Should
 
 
 
-## ATC Manual Version (Internal): 26.1
+## ATC Manual Version (Internal): 26.2
 
-## Last Updated: May 2026
+## Last Updated: June 2026
 
 
 
-+++ Summary of Changes - Version: 26.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 26.2 (CURRENT VERSION)
 
 | Location                                   | Change                                                       |
 | ------------------------------------------ | ------------------------------------------------------------ |
