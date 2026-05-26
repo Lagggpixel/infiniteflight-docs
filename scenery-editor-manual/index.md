@@ -8,7 +8,7 @@ meta: Learn how to use the Infinite Flight Scenery Editor with our online docume
 
 
 
-## Guide Version: 25.1.1
+## Guide Version: 26.1.0
 
 
 
@@ -18,7 +18,27 @@ Welcome to the Scenery Editor Manual, designed to help newly qualified and veter
 
 On joining the Scenery Editor Team and uploading airports using the Scenery Editor, all Editors agree to the [Contributor License Agreement (CLA)](https://github.com/infiniteflight/infiniteflight-localization/blob/main/CONTRIBUTING.md).
 
-+++ Summary of Changes - Version: 25.1.1 (CURRENT VERSION)
++++ Summary of Changes - Version: 26.1.0 (CURRENT VERSION)
+
+| Location | Change                                                       |
+| -------- | ------------------------------------------------------------ |
+| 1     | Added "The Goal of Airport Editing" section        |
+| 1A     | Added no starting from scratch rule        |
+|5.2|Added more infomation on runway ends, along with diagrams|
+|6.3|Added a "DON'T" for creating holes under buildings|
+|7.1|Added Section on how to reorder taxiway lines|
+|7.4|Clarified rule and added a check for taxiway line order|
+|9.2|Clarified Building "Closed" property for 2 node building parts|
+|9.4|Reworded section on building overhangs for building parts |
+|9.5|Reworded and added a few DOs and DON'ts|
+|10|Moved Dos and Do Nots to separate page|
+|11|Section reference fixed|
+|12|Added Hold line layer order check to checklist|
+
+
++++
+
++++ Summary of Changes - Version: 25.1.1 
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
@@ -49,16 +69,6 @@ On joining the Scenery Editor Team and uploading airports using the Scenery Edit
 +++
 
 
-
-+++ Summary of Changes - Version: 24.1.1
-
-| Location | Change                                                       |
-| -------- | ------------------------------------------------------------ |
-| 3.2.2    | Added "in meters" to Airport elevation within the properties table |
-| 4.2.1    | Notes added to provide more detail on SAS exporting/importing |
-| 6.1      | Do/Do Not table updated to include not adding "X's" to runways |
-
-+++
 
 
 
